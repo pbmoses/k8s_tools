@@ -17,7 +17,8 @@ https://kubernetes.io/docs/tasks/tools/
 helm - Package manager for Kubernetes
 https://helm.sh/
 
-
+kustomize - k8s native config management
+https://kustomize.io/
 
 
 
